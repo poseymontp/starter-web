@@ -1,0 +1,20 @@
+total 352
+drwxr-xr-x   7 poseymontp  staff    224 Dec 30 20:13 ..
+-rw-r--r--   1 poseymontp  staff  29947 Dec 30 20:14 .htaccess
+-rw-r--r--   1 poseymontp  staff   4459 Dec 30 20:14 404.html
+-rw-r--r--   1 poseymontp  staff    133 Dec 30 20:14 README.md
+-rw-r--r--   1 poseymontp  staff   1226 Dec 30 20:14 apple-touch-icon-precomposed.png
+-rw-r--r--   1 poseymontp  staff    603 Dec 30 20:14 crossdomain.xml
+drwxr-xr-x   9 poseymontp  staff    288 Dec 30 20:14 css
+-rw-r--r--   1 poseymontp  staff    766 Dec 30 20:14 favicon.ico
+drwxr-xr-x   6 poseymontp  staff    192 Dec 30 20:14 fonts
+-rw-r--r--   1 poseymontp  staff    191 Dec 30 20:14 humans.txt
+-rw-r--r--   1 poseymontp  staff   5154 Dec 30 20:14 index.html
+drwxr-xr-x   5 poseymontp  staff    160 Dec 30 20:14 js
+-rw-r--r--   1 poseymontp  staff     32 Dec 30 20:14 robots.txt
+-rw-r--r--   1 poseymontp  staff    429 Dec 30 20:14 simple.html
+-rw-r--r--@  1 poseymontp  staff  40170 Dec 30 20:32 hipster.txt2
+-rw-r--r--@  1 poseymontp  staff  58916 Dec 30 20:37 hipster.txt
+drwxr-xr-x  15 poseymontp  staff    480 Dec 30 20:37 .git
+drwxr-xr-x  19 poseymontp  staff    608 Dec 30 20:37 .
+-rw-r--r--   1 poseymontp  staff      0 Dec 30 20:37 new.txt
